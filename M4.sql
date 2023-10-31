@@ -1,4 +1,3 @@
-%TIFFANY KAWAMURA 10/16/2023
 %-------------------------------------------------------------------------
 % QUERY 1. Which songs appeared on the CD rated number one in 2003? 'S17' Day's Go By
 % Order results in ascending order on track number.
